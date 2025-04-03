@@ -1,0 +1,3 @@
+#python lablel_image.py '--input' '\\192.168.1.121\dataset\Ghibli' '--output' '\\192.168.1.121\dataset\Ghibli' '--api_key' 'your-openai-api-key' '--mode' 'tag' '--max_retries' '3'
+# python lablel_image.py '--input' '\\192.168.1.121\dataset\Ghibli' '--output' '\\192.168.1.121\dataset\Ghibli' '--api_key' 'your-openai-api-key' '--mode' 'des' '--max_retries' '3'
+python lablel_image.py '--input' '\\192.168.1.121\dataset\Ghibli' '--output' '\\192.168.1.121\dataset\Ghibli' '--api_key' 'your-openai-api-key' '--mode' 'custom' '--max_retries' '3' '--custom_prompt' 'Write a short descriptive caption for this image in a casual tone.'

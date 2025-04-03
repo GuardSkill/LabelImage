@@ -1,0 +1,327 @@
+2025-04-03 10:24:34,551 - INFO - Created output folder: \192.168.1.121atasethibli
+2025-04-03 10:24:34,552 - INFO - Processing complete. Total processed: 0, Failed: 0
+2025-04-03 10:26:03,765 - INFO - Retrying request to /models in 0.486323 seconds
+2025-04-03 10:26:04,257 - INFO - Retrying request to /models in 0.979834 seconds
+2025-04-03 10:26:05,242 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\30768237.png: Connection error.
+2025-04-03 10:26:05,387 - INFO - Retrying request to /models in 0.492136 seconds
+2025-04-03 10:26:05,897 - INFO - Retrying request to /models in 0.996960 seconds
+2025-04-03 10:26:06,902 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\30768246.png: Connection error.
+2025-04-03 10:26:07,006 - INFO - Retrying request to /models in 0.430076 seconds
+2025-04-03 10:26:07,450 - INFO - Retrying request to /models in 0.888730 seconds
+2025-04-03 10:26:08,345 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\F000001.png: Connection error.
+2025-04-03 10:26:08,436 - INFO - Retrying request to /models in 0.477545 seconds
+2025-04-03 10:26:08,924 - INFO - Retrying request to /models in 0.892594 seconds
+2025-04-03 10:26:09,827 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00009_.png: Connection error.
+2025-04-03 10:26:09,942 - INFO - Retrying request to /models in 0.487511 seconds
+2025-04-03 10:26:10,437 - INFO - Retrying request to /models in 0.890905 seconds
+2025-04-03 10:26:11,332 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00035_.png: Connection error.
+2025-04-03 10:26:11,514 - INFO - Retrying request to /models in 0.399686 seconds
+2025-04-03 10:26:11,922 - INFO - Retrying request to /models in 0.838593 seconds
+2025-04-03 10:26:12,768 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00053_.png: Connection error.
+2025-04-03 10:26:12,889 - INFO - Retrying request to /models in 0.483656 seconds
+2025-04-03 10:26:13,376 - INFO - Retrying request to /models in 0.903450 seconds
+2025-04-03 10:26:14,283 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00058_.png: Connection error.
+2025-04-03 10:26:14,360 - INFO - Retrying request to /models in 0.469297 seconds
+2025-04-03 10:26:14,843 - INFO - Retrying request to /models in 0.758680 seconds
+2025-04-03 10:26:15,623 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00065_.png: Connection error.
+2025-04-03 10:26:15,814 - INFO - Retrying request to /models in 0.489398 seconds
+2025-04-03 10:26:16,314 - INFO - Retrying request to /models in 0.857155 seconds
+2025-04-03 10:26:17,182 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00122_.png: Connection error.
+2025-04-03 10:26:17,282 - INFO - Retrying request to /models in 0.492335 seconds
+2025-04-03 10:26:17,778 - INFO - Retrying request to /models in 0.803631 seconds
+2025-04-03 10:26:18,594 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00130_.png: Connection error.
+2025-04-03 10:26:18,689 - INFO - Retrying request to /models in 0.403021 seconds
+2025-04-03 10:26:19,112 - INFO - Retrying request to /models in 0.861711 seconds
+2025-04-03 10:26:19,986 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00146_.png: Connection error.
+2025-04-03 10:26:20,126 - INFO - Retrying request to /models in 0.407872 seconds
+2025-04-03 10:26:20,542 - INFO - Retrying request to /models in 0.846012 seconds
+2025-04-03 10:26:21,405 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\girl.png: Connection error.
+2025-04-03 10:26:21,478 - INFO - Retrying request to /models in 0.376389 seconds
+2025-04-03 10:26:21,857 - INFO - Retrying request to /models in 0.764335 seconds
+2025-04-03 10:26:22,626 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\girl2.png: Connection error.
+2025-04-03 10:26:22,778 - INFO - Retrying request to /models in 0.441508 seconds
+2025-04-03 10:26:23,235 - INFO - Retrying request to /models in 0.805848 seconds
+2025-04-03 10:26:24,047 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\girl3.png: Connection error.
+2025-04-03 10:26:24,130 - INFO - Retrying request to /models in 0.449145 seconds
+2025-04-03 10:26:24,588 - INFO - Retrying request to /models in 0.783801 seconds
+2025-04-03 10:26:25,388 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_7e8f10502cf3e2753680b5d5f928d264.png: Connection error.
+2025-04-03 10:26:25,463 - INFO - Retrying request to /models in 0.414135 seconds
+2025-04-03 10:26:25,888 - INFO - Retrying request to /models in 0.861617 seconds
+2025-04-03 10:26:26,754 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_7f499a5f284b20965f140e5da801f1d6.png: Connection error.
+2025-04-03 10:26:26,869 - INFO - Retrying request to /models in 0.391871 seconds
+2025-04-03 10:26:27,268 - INFO - Retrying request to /models in 0.935609 seconds
+2025-04-03 10:26:28,220 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_9690b6c3cc4156db51ee409aafddb2d4.png: Connection error.
+2025-04-03 10:26:28,384 - INFO - Retrying request to /models in 0.473952 seconds
+2025-04-03 10:26:28,875 - INFO - Retrying request to /models in 0.956045 seconds
+2025-04-03 10:26:29,844 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_97f987a6eee96aa39cb696a2ca52b2b9.png: Connection error.
+2025-04-03 10:26:29,975 - INFO - Retrying request to /models in 0.488991 seconds
+2025-04-03 10:26:30,475 - INFO - Retrying request to /models in 0.957367 seconds
+2025-04-03 10:26:31,448 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_fe34822959dff6d161634328bdaac8e3 (1).png: Connection error.
+2025-04-03 10:26:31,449 - INFO - Processing complete. Total processed: 0, Failed: 19
+2025-04-03 10:47:34,082 - INFO - Retrying request to /models in 0.380202 seconds
+2025-04-03 10:47:34,466 - INFO - Retrying request to /models in 0.902106 seconds
+2025-04-03 10:48:20,809 - INFO - Retrying request to /models in 0.484133 seconds
+2025-04-03 10:48:21,307 - INFO - Retrying request to /models in 0.991633 seconds
+2025-04-03 10:51:18,667 - INFO - Retrying request to /models in 0.424718 seconds
+2025-04-03 10:51:19,103 - INFO - Retrying request to /models in 0.939213 seconds
+2025-04-03 10:51:20,074 - INFO - Retrying request to /models in 0.430138 seconds
+2025-04-03 10:51:20,510 - INFO - Retrying request to /models in 0.825137 seconds
+2025-04-03 10:51:22,621 - INFO - Retrying request to /models in 0.394473 seconds
+2025-04-03 10:51:23,027 - INFO - Retrying request to /models in 0.980042 seconds
+2025-04-03 10:52:32,885 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:32,889 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\30768237.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:33,026 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:33,028 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\30768246.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:33,170 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:33,172 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\F000001.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:33,305 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:33,307 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00009_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:33,458 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:33,472 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00035_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:33,615 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:33,651 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00053_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:33,779 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:33,781 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00058_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:33,911 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:33,913 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00065_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:34,048 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:34,050 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00122_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:34,180 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:34,182 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00130_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:34,298 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:34,299 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00146_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:34,406 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:34,414 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\girl.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:34,497 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:34,500 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\girl2.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:34,630 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:34,664 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\girl3.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:34,767 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:34,769 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_7e8f10502cf3e2753680b5d5f928d264.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:34,858 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:34,884 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_7f499a5f284b20965f140e5da801f1d6.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:34,972 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:34,974 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_9690b6c3cc4156db51ee409aafddb2d4.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:35,077 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:35,079 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_97f987a6eee96aa39cb696a2ca52b2b9.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:35,212 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:52:35,219 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_fe34822959dff6d161634328bdaac8e3 (1).png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:52:35,220 - INFO - Processing complete. Total processed: 0, Failed: 19
+2025-04-03 10:53:32,026 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:32,033 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\30768237.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:32,150 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:32,152 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\30768246.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:32,299 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:32,301 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\F000001.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:32,449 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:32,451 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00009_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:32,603 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:32,605 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00035_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:32,704 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:32,727 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00053_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:32,846 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:32,848 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00058_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:32,958 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:32,960 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00065_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:33,089 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:33,091 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00122_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:33,225 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:33,227 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00130_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:33,383 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:33,385 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00146_.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:33,550 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:33,552 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\girl.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:33,625 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:33,654 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\girl2.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:33,831 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:33,842 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\girl3.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:33,937 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:33,939 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_7e8f10502cf3e2753680b5d5f928d264.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:34,025 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:34,027 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_7f499a5f284b20965f140e5da801f1d6.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:34,194 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:34,226 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_9690b6c3cc4156db51ee409aafddb2d4.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:34,336 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:34,340 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_97f987a6eee96aa39cb696a2ca52b2b9.png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:34,389 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:53:34,393 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_fe34822959dff6d161634328bdaac8e3 (1).png: Completions.create() got an unexpected keyword argument 'max_retries'
+2025-04-03 10:53:34,394 - INFO - Processing complete. Total processed: 0, Failed: 19
+2025-04-03 10:54:14,115 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:15,923 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:15,925 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\30768237.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:16,070 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:16,392 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:16,393 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\30768246.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:16,530 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:16,796 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:16,797 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\F000001.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:16,947 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:17,216 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:17,217 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00009_.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:17,348 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:17,639 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:17,641 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00035_.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:17,745 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:18,037 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:18,038 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00053_.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:18,128 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:18,438 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:18,439 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00058_.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:18,617 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:18,906 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:18,907 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00065_.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:19,019 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:19,286 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:19,286 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00122_.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:19,400 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:19,658 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:19,659 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00130_.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:19,792 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:20,056 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:20,057 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00146_.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:20,174 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:20,482 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:20,484 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\girl.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:20,641 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:20,967 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:20,968 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\girl2.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:21,107 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:21,390 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:21,392 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\girl3.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:21,479 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:21,616 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:21,617 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_7e8f10502cf3e2753680b5d5f928d264.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:21,733 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:21,863 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:21,864 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_7f499a5f284b20965f140e5da801f1d6.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:22,016 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:22,193 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:22,194 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_9690b6c3cc4156db51ee409aafddb2d4.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:22,259 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:22,428 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:22,429 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_97f987a6eee96aa39cb696a2ca52b2b9.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:22,550 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:54:22,696 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:54:22,697 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_fe34822959dff6d161634328bdaac8e3 (1).png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:54:22,698 - INFO - Processing complete. Total processed: 0, Failed: 19
+2025-04-03 10:57:15,779 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 10:57:47,454 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 10:57:49,093 - ERROR - Error processing \\192.168.1.121\dataset\Ghibli\30768237.png: Error code: 400 - {'object': 'error', 'message': 'The prompt (total length 788) is too long to fit into the model (context length 512). Make sure that `max_model_len` is no smaller than the number of text tokens plus multimodal tokens. For image inputs, the number of image tokens depends on the number of images, and possibly their aspect ratios as well.', 'type': 'BadRequestError', 'param': None, 'code': 400}
+2025-04-03 10:59:58,752 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:01:20,900 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 400 Bad Request"
+2025-04-03 11:02:46,412 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:02:50,089 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:02:50,143 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\30768237.png
+2025-04-03 11:02:50,268 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:02:52,387 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:02:52,486 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\30768246.png
+2025-04-03 11:02:52,642 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:02:54,785 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:02:54,792 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\F000001.png
+2025-04-03 11:02:54,942 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:02:57,069 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:02:57,090 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00009_.png
+2025-04-03 11:02:57,221 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:02:59,248 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:02:59,255 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00035_.png
+2025-04-03 11:02:59,380 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:03:01,332 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:03:01,338 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00053_.png
+2025-04-03 11:03:01,453 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:03:03,774 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:03:03,781 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00058_.png
+2025-04-03 11:03:03,854 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:03:06,330 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:03:06,337 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00065_.png
+2025-04-03 11:03:06,445 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:03:08,505 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:03:08,512 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00122_.png
+2025-04-03 11:03:08,643 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:03:10,786 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:03:10,793 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00130_.png
+2025-04-03 11:03:10,869 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:03:13,078 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:03:13,085 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00146_.png
+2025-04-03 11:03:13,215 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:03:15,539 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:03:15,549 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\girl.png
+2025-04-03 11:03:15,692 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:03:18,130 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:03:18,164 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\girl2.png
+2025-04-03 11:03:18,267 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:03:20,381 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:03:20,476 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\girl3.png
+2025-04-03 11:03:20,580 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:03:22,566 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:03:22,573 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_7e8f10502cf3e2753680b5d5f928d264.png
+2025-04-03 11:03:22,665 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:03:24,694 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:03:24,707 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_7f499a5f284b20965f140e5da801f1d6.png
+2025-04-03 11:03:24,779 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:03:26,642 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:03:26,761 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_9690b6c3cc4156db51ee409aafddb2d4.png
+2025-04-03 11:03:26,819 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:03:28,844 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:03:28,941 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_97f987a6eee96aa39cb696a2ca52b2b9.png
+2025-04-03 11:03:29,031 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:03:31,026 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:03:31,105 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_fe34822959dff6d161634328bdaac8e3 (1).png
+2025-04-03 11:03:31,105 - INFO - Processing complete. Total processed: 19, Failed: 0
+2025-04-03 11:06:40,870 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:42,103 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:42,202 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\30768237.png
+2025-04-03 11:06:42,303 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:43,598 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:43,645 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\30768246.png
+2025-04-03 11:06:43,794 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:44,614 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:44,668 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\F000001.png
+2025-04-03 11:06:44,746 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:45,804 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:45,816 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00009_.png
+2025-04-03 11:06:45,935 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:46,913 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:47,006 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00035_.png
+2025-04-03 11:06:47,164 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:48,037 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:48,046 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00053_.png
+2025-04-03 11:06:48,130 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:49,354 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:49,359 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00058_.png
+2025-04-03 11:06:49,546 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:50,521 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:50,525 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00065_.png
+2025-04-03 11:06:50,625 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:51,526 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:51,529 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00122_.png
+2025-04-03 11:06:51,613 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:52,452 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:52,542 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00130_.png
+2025-04-03 11:06:52,731 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:53,728 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:53,733 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\Flux_Upscale_00146_.png
+2025-04-03 11:06:53,824 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:54,981 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:54,987 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\girl.png
+2025-04-03 11:06:55,076 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:56,137 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:56,157 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\girl2.png
+2025-04-03 11:06:56,249 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:57,168 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:57,172 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\girl3.png
+2025-04-03 11:06:57,212 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:58,237 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:58,337 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_7e8f10502cf3e2753680b5d5f928d264.png
+2025-04-03 11:06:58,484 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:06:59,537 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:06:59,560 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_7f499a5f284b20965f140e5da801f1d6.png
+2025-04-03 11:06:59,629 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:07:00,427 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:07:00,434 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_9690b6c3cc4156db51ee409aafddb2d4.png
+2025-04-03 11:07:00,567 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:07:01,675 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:07:01,681 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_97f987a6eee96aa39cb696a2ca52b2b9.png
+2025-04-03 11:07:01,772 - INFO - HTTP Request: GET http://192.168.5.212:8000/v1/models "HTTP/1.1 200 OK"
+2025-04-03 11:07:02,555 - INFO - HTTP Request: POST http://192.168.5.212:8000/v1/chat/completions "HTTP/1.1 200 OK"
+2025-04-03 11:07:02,651 - INFO - Successfully processed: \\192.168.1.121\dataset\Ghibli\workspace_images_605549513536505493_fe34822959dff6d161634328bdaac8e3 (1).png
+2025-04-03 11:07:02,652 - INFO - Processing complete. Total processed: 19, Failed: 0
